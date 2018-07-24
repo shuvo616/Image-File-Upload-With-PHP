@@ -1,0 +1,30 @@
+body{font-family: Georgia;}
+
+.phpcoding {
+    width: 900px;
+    margin: 0 auto;
+    background: #a2afa8;
+}
+.headportion, .footerportion {
+    text-align: center;
+    background: #299da2;
+    padding: 20px;
+    color: #ffffff;
+}
+.headportion h2, .footerportion h2 {
+    margin: 0;
+}
+.mainportion {
+    min-height: 450px;
+    padding: 20px;
+}
+.myform {
+    width: 500px;
+    border: 1px solid #f5f5dc;
+    color: #ffff56;
+    margin: 0 auto;
+    padding: 15px;
+    font-size: 20px;
+}
+.success{color: #1a5800;display: block;font-size: 20px;margin-top: 10px;}
+.fail{color: #f70000;display: block;font-size: 20px;margin-top: 10px;}
